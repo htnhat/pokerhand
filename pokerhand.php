@@ -8,7 +8,7 @@ $phs = "S8D3HQS3CQ"; // 2P
 $phs = "S9D3H9D9C9"; // 4C
 $phs = "S4C5H8D4C4"; // 3C
 $phs = "S2C5H4D9C2"; // 1P
-$phs = "S5H10D10C10S10"; // 1P (with attendance of the number 10)
+$phs = "S5H6D10C8S10"; // 1P (with attendance of the number 10)
 $phs = "S3H4D6C9D10"; // No Hands Case.
 $phs = "S3H4D6C9S10C4"; // Invalid Input (NOT 5 pairs [Suit an Rank])
 */
